@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Park Seokwoo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am an undergraduate student at Seoul National University, majoring in Industrial Engineering and Artificial Intelligence."
+  location         : "Seoul, Republic of Korea"
+  email            : car052000@snu.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
